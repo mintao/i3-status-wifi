@@ -29,6 +29,7 @@
   "author": "Florian Fackler <florian@fackler.cloud>",
   "license": "MIT",
   "dependencies": {
+    "growl": "^1.10.5",
     "node-wifi": "^2.0.5"
   },
   "devDependencies": {
