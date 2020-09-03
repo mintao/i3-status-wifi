@@ -2546,10 +2546,10 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
-node-wifi@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/node-wifi/-/node-wifi-2.0.5.tgz#74c5b2f2cebb29c503054c67634191065550b54f"
-  integrity sha512-3kbbaxwQvyGZPb0pahvhse5JJ5ReHh49tsnI0fitCQJGmdCpeIW2M+DKtJZd/JcMXsw9lUZxg97DoVRHdrwW5Q==
+node-wifi@^2.0.12:
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/node-wifi/-/node-wifi-2.0.12.tgz#46be2e58cb24f27b1fcac34b92cebaee3970c0b8"
+  integrity sha512-fYQkKjXhctYF5Tx/oYL2dSmbPhTZyIcmBtdN4iwRDSuDX92mY+5XRVCPVLCQLA5PrEYOYi4CL1veL3ayZjiZ6Q==
   dependencies:
     command-line-args "^3.0.1"
     command-line-usage "^5.0.5"
